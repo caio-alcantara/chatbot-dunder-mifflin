@@ -65,8 +65,11 @@ O sistema é baseado em uma **arquitetura multi-agente orquestrada**, onde um ag
 └────────────────────┘  └────────────────────┘  └────────────────────┘
 ```
 
-### 📊 **PLACEHOLDER PARA DIAGRAMA COMPLETO DA ARQUITETURA**
-<!-- Inserir aqui uma imagem mostrando todos os agentes, ferramentas e fluxos -->
+### 📊 **DIAGRAMA COMPLETO DA ARQUITETURA**
+
+![arquitetura1](media/arq1.png)
+![arquitetura2](media/arq2.png)
+![arquitetura3](media/arq3.png)
 
 ---
 
@@ -361,7 +364,7 @@ chatbot_dunder_mifflin/
 ### Passo 1: Clonar o Repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/caio-alcantara/chatbot-dunder-mifflin
 cd chatbot_dunder_mifflin
 ```
 
@@ -566,7 +569,7 @@ Dump de emails internos contendo:
 
 ## 🎥 Demonstração em Vídeo
 
-**📹 PLACEHOLDER PARA LINK DO VÍDEO**
+https://drive.google.com/file/d/1_YjqSxURqw5NfGbjnbQQL04w8YOIwgte/view?usp=sharing
 
 O vídeo de demonstração mostra o sistema atendendo aos três requisitos:
 1. Chatbot de consulta de compliance
