@@ -1,0 +1,15 @@
+# adk.yaml
+project_name: dunder-mifflin-compliance
+version: 1.0.0
+description: "Sistema de auditoria inteligente para Dunder Mifflin"
+
+# Configurações globais
+settings:
+  default_model: gemini-2.0-flash-exp
+  api_key_env: GOOGLE_API_KEY
+
+# Agentes disponíveis
+agents:
+  - name: compliance_agent
+    file: agents/compliance_agent.py
+    description: "Chatbot de compliance com RAG"
